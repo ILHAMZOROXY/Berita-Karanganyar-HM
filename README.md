@@ -1,2 +1,2 @@
-# Berita-Karanganyar-HM
-SerpAPI
+# Berita-Karanganyar
+menggunakan serp API

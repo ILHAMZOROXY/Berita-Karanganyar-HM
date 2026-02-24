@@ -1,0 +1,16 @@
+# Local editor settings
+.vscode/
+
+# Local secrets (DO NOT COMMIT)
+/config/api_keys.php
+
+# Generated cache/artifacts
+/cache/
+/temp_rss.xml
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
